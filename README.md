@@ -6,8 +6,8 @@ This project is an implementation of the Harris Corner Detection algorithm, a po
 ## Example
 ##### Original image,     Derivative of X,   Derivative of Y      
 <p>
-<img src="https://github.com/knrdsmt/Image-Harris-Corner-Detection/blob/main/pg.jpg?raw=true" alt="Original" width="32%" height="auto" align="left" />
-<img src="https://github.com/knrdsmt/Image-Harris-Corner-Detection/blob/main/img_dx.png?raw=true" alt="DX" width="32%" height="auto" float="center" />
+<img src="https://github.com/knrdsmt/Image-Harris-Corner-Detection/blob/main/pg.jpg?raw=true" alt="Original" width="31.5%" height="auto" align="left" />
+<img src="https://github.com/knrdsmt/Image-Harris-Corner-Detection/blob/main/img_dx.png?raw=true" alt="DX" width="31.5%" height="auto" float="center" />
 <img src="https://github.com/knrdsmt/Image-Harris-Corner-Detection/blob/main/img_dy.png?raw=true" alt="DY" width="31.5%" height="auto" align="right" />
 </p>
 
